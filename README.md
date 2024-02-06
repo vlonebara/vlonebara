@@ -3,15 +3,7 @@
 <div>
   <h2 align="center">Stats</h2>
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vlonebara&theme=solarized_dark)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vlonebara&theme=solarized_dark)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vlonebara&theme=solarized_dark)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vlonebara&theme=solarized_dark)
-  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vlonebara&theme=solarized_dark)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlonebara)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
