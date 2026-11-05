@@ -44,7 +44,7 @@ I specialize in backend development with **Go**. I build HTTP services, work wit
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
 
-## Languages across my repositories
+## Languages stats
 
 <p>
   <img
@@ -65,7 +65,3 @@ I specialize in backend development with **Go**. I build HTTP services, work wit
 | [calculator](https://github.com/vlonebara/calculator) | Browser calculator with light and dark themes, help panel, and sound effects. | JavaScript · HTML · CSS · Web Audio API |
 
 ---
-
-<p align="center">
-  <i>Interested in backend engineering, Go, and building useful software.</i>
-</p>
