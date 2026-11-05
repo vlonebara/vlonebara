@@ -48,7 +48,7 @@ I specialize in backend development with **Go**. I build HTTP services, work wit
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlonebara&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Most used programming languages across my public repositories"
   >
 </p>
