@@ -22,12 +22,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=vlonebara&layout=compact&langs_count=8&hide_border=true
+          options: username=vlonebara&layout=compact&langs_count=8&theme=dark&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Apply profile styling
-        run: python3 .github/scripts/style-language-card.py
 
       - name: Commit updated card
         run: |
