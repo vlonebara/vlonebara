@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/badge/Primary%20language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </p>
 
-## About me
-
-I specialize in backend development with **Go**. I build HTTP services, work with databases, and design clear application structure. I also use HTML, CSS, and JavaScript to create simple interfaces for my projects.
-
 ## Tech stack
 
 **Backend**  
