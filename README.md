@@ -59,19 +59,6 @@
 | [clients-manager](https://github.com/vlonebara/clients-manager) | HTTP service for creating users and listing records, with SQLite storage and bcrypt password hashing. | Go · chi · SQLite · bcrypt |
 | [morseConverter](https://github.com/vlonebara/morseConverter) | Web app that converts uploaded text between plain text and Morse code. | Go · net/http · HTML |
 | [calculator](https://github.com/vlonebara/calculator) | Browser calculator with light and dark themes, help panel, and sound effects. | JavaScript · HTML · CSS · Web Audio API |
-
-## Focus: Go task planner
-
-My main backend project is [todo-list-service](https://github.com/vlonebara/todo-list-service/tree/dev): a personal planner with a Go HTTP API, SQLite storage, and a plain JavaScript interface.
-
-- **Clear responsibilities:** HTTP handlers, business rules, and database operations live in separate packages. Request contexts reach SQL queries, and the server shares one connection pool.
-- **Reliable task changes:** a task update and its history are saved in one transaction. The last actions can be undone, and concurrent completion detects conflicting changes.
-- **Authentication and request validation:** JWT in an HttpOnly cookie, CSRF protection, sign-in rate limits, and bounded JSON requests.
-- **Data and delivery:** database migrations, backup and restore commands, a Docker image running as a non-root user, and graceful shutdown.
-- **Checks:** isolated integration tests, Go's race detector, static analysis, and vulnerability checks in GitHub Actions.
-
-The latest improvements are in [`dev`](https://github.com/vlonebara/todo-list-service/tree/dev), pending merge into `main`.
-
-[Project documentation](https://github.com/vlonebara/todo-list-service/blob/dev/README.md) · [HTTP API](https://github.com/vlonebara/todo-list-service/blob/dev/README.md#http-api) · [CI checks](https://github.com/vlonebara/todo-list-service/actions/workflows/ci.yml?query=branch%3Adev)
+https://github.com/vlonebara/todo-list-service/blob/dev/README.md) · [HTTP API](https://github.com/vlonebara/todo-list-service/blob/dev/README.md#http-api) · [CI checks](https://github.com/vlonebara/todo-list-service/actions/workflows/ci.yml?query=branch%3Adev)
 
 ---
