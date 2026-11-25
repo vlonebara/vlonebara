@@ -55,6 +55,7 @@
 
 | Project | Description | Technologies |
 |---|---|---|
+| [PhotoMap](https://github.com/vlonebara/photomap) | Interactive map for exploring how places changed through historical photos, with uploads and moderation. | Go · SQLite · Vue 3 · TypeScript · MapLibre GL JS |
 | [todo-list-service](https://github.com/vlonebara/todo-list-service/tree/dev) | Personal task planner with recurring schedules, Unicode search, task history and undo, JSON export, and database backups. | Go · net/http · SQLite · JWT · Docker |
 | [clients-manager](https://github.com/vlonebara/clients-manager) | HTTP service for creating users and listing records, with SQLite storage and bcrypt password hashing. | Go · chi · SQLite · bcrypt |
 | [morseConverter](https://github.com/vlonebara/morseConverter) | Web app that converts uploaded text between plain text and Morse code. | Go · net/http · HTML |
